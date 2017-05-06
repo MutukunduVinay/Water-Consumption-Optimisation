@@ -16,6 +16,7 @@ public class Details {
 	public void setPass(String pass) {
 		this.pass = pass;
 	}
+	
 	public String execute()
 	{
 		return "success";
