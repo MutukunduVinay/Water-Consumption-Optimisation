@@ -21,5 +21,6 @@ public class Details {
 	{
 		return "success";
 	}
+	
 
 }
